@@ -20,6 +20,8 @@
 
 ### DESTINATION (name of e-retailer or general/pure)
 
+Friser
+
 <!-- please enter e-retailers name -->
 
 ### E-RETAILER’S SPECIFICATION (technical guidelines; html, css, graphics, photos, resolution)
